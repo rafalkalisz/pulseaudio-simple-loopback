@@ -1,4 +1,5 @@
 # pulseaudio-simple-loopback
+[![PyPI Version](https://img.shields.io/pypi/v/pulseaudio-simple-loopback.svg)](https://pypi.org/project/pulseaudio-simple-loopback/)
 
 A simple Python CLI tool for quickly setting up and tearing down PulseAudio loopback modules — ideal for routing audio between input and output devices like USB interfaces, Bluetooth headsets, and virtual sinks.
 
